@@ -18,3 +18,4 @@ $ git clone https://github.com/URLdoRepositorio
 $ git branch Nome_Da_Branch
 $ git checkout Nome_Da_Branch
 $ git checkout -b Nome_Da_Branch
+$ git merge Nome_Da_Branch main

@@ -13,4 +13,8 @@ $ git remote add origin https://github.com/URLdoRepositorio
 $ git remote -v
 $ git branch -M main
 $ git push origin main
-git pull
+$ git pull origin main
+$ git clone https://github.com/URLdoRepositorio
+$ git branch Nome_Da_Branch
+$ git checkout Nome_Da_Branch
+$ git checkout -b Nome_Da_Branch

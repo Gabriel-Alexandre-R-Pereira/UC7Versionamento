@@ -19,3 +19,4 @@ $ git branch Nome_Da_Nova_Branch
 $ git checkout Nome_Da_Branch_Desejada
 $ git checkout -b Nome_Da_Nova_Branch
 $ git push origin Nome_Da_Nova_Branch
+$ git merge Nome_Da_Nova_Branch (Feito na Branch que se deseja receber a mescla)
